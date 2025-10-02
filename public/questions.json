@@ -1,0 +1,1102 @@
+[
+  {
+    "question_text": "パートナーに求める「癒し」とは具体的にどんなことですか？",
+    "choices": [
+      {
+        "choice_text": "一緒にいるだけで心が安らぐ存在",
+        "score": 10
+      },
+      {
+        "choice_text": "悩みを聞いてくれ、励ましてくれること",
+        "score": 7
+      },
+      {
+        "choice_text": "美味しい食事を作ってくれること",
+        "score": 4
+      },
+      {
+        "choice_text": "何も言わずにそばにいてくれること",
+        "score": 1
+      }
+    ],
+    "id": 1
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「約束」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "どんな時も正直でいること",
+        "score": 10
+      },
+      {
+        "choice_text": "お互いを尊重すること",
+        "score": 7
+      },
+      {
+        "choice_text": "秘密を持たないこと",
+        "score": 4
+      },
+      {
+        "choice_text": "毎日連絡を取ること",
+        "score": 1
+      }
+    ],
+    "id": 2
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「言葉」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "「愛してる」",
+        "score": 10
+      },
+      {
+        "choice_text": "「ありがとう」",
+        "score": 7
+      },
+      {
+        "choice_text": "「ごめんね」",
+        "score": 4
+      },
+      {
+        "choice_text": "「大丈夫」",
+        "score": 1
+      }
+    ],
+    "id": 3
+  },
+  {
+    "question_text": "パートナーとの関係で、最も避けたい「感情」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "嫉妬",
+        "score": 10
+      },
+      {
+        "choice_text": "不安",
+        "score": 7
+      },
+      {
+        "choice_text": "不満",
+        "score": 4
+      },
+      {
+        "choice_text": "無関心",
+        "score": 1
+      }
+    ],
+    "id": 4
+  },
+  {
+    "question_text": "パートナーとの関係で、最も許せない行動は何ですか？",
+    "choices": [
+      {
+        "choice_text": "嘘をつくこと、裏切ること",
+        "score": 10
+      },
+      {
+        "choice_text": "約束を破ること",
+        "score": 7
+      },
+      {
+        "choice_text": "連絡を無視すること",
+        "score": 4
+      },
+      {
+        "choice_text": "無関心な態度をとること",
+        "score": 1
+      }
+    ],
+    "id": 5
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「共通の趣味」と「新しい発見」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "共通の趣味。一緒に楽しめることが大切",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "新しい発見。刺激がほしい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 6
+  },
+  {
+    "question_text": "パートナーとの関係で、マンネリを感じた時どうしますか？",
+    "choices": [
+      {
+        "choice_text": "新しいことに挑戦し、関係に刺激を与える",
+        "score": 10
+      },
+      {
+        "choice_text": "話し合い、改善策を考える",
+        "score": 7
+      },
+      {
+        "choice_text": "一人で気分転換をする",
+        "score": 4
+      },
+      {
+        "choice_text": "諦めてしまう",
+        "score": 1
+      }
+    ],
+    "id": 7
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「刺激」と「安定」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "刺激。常に新鮮な関係でいたい",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらもバランス良く",
+        "score": 7
+      },
+      {
+        "choice_text": "安定。穏やかな関係を築きたい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 8
+  },
+  {
+    "question_text": "恋愛において、過去の経験から何を学びましたか？",
+    "choices": [
+      {
+        "choice_text": "失敗から学び、次へと活かす",
+        "score": 10
+      },
+      {
+        "choice_text": "経験は経験として受け止める",
+        "score": 7
+      },
+      {
+        "choice_text": "あまり学んでいない",
+        "score": 4
+      },
+      {
+        "choice_text": "過去は振り返らない",
+        "score": 1
+      }
+    ],
+    "id": 9
+  },
+  {
+    "question_text": "恋愛において、自分の気持ちを隠すことはありますか？",
+    "choices": [
+      {
+        "choice_text": "全くない。常にオープン",
+        "score": 10
+      },
+      {
+        "choice_text": "相手を気遣って隠すことがある",
+        "score": 7
+      },
+      {
+        "choice_text": "よくある。本音を言えない",
+        "score": 4
+      },
+      {
+        "choice_text": "常に隠している",
+        "score": 1
+      }
+    ],
+    "id": 10
+  },
+  {
+    "question_text": "恋愛において、直感と論理、どちらを重視しますか？",
+    "choices": [
+      {
+        "choice_text": "直感。フィーリングが大切",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "論理。冷静に判断したい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 11
+  },
+  {
+    "question_text": "恋愛関係において、秘密は許されますか？",
+    "choices": [
+      {
+        "choice_text": "いいえ、全てを共有すべき",
+        "score": 10
+      },
+      {
+        "choice_text": "内容による。相手を傷つけない秘密なら",
+        "score": 7
+      },
+      {
+        "choice_text": "はい、プライベートは尊重すべき",
+        "score": 4
+      },
+      {
+        "choice_text": "秘密はあって当然",
+        "score": 1
+      }
+    ],
+    "id": 12
+  },
+  {
+    "question_text": "記念日をどのように祝いますか？",
+    "choices": [
+      {
+        "choice_text": "豪華なディナーや旅行を計画する",
+        "score": 10
+      },
+      {
+        "choice_text": "手作りのプレゼントやメッセージで気持ちを伝える",
+        "score": 7
+      },
+      {
+        "choice_text": "普段より少し贅沢な食事をする",
+        "score": 4
+      },
+      {
+        "choice_text": "特に何もしない。普段通りでいい",
+        "score": 1
+      }
+    ],
+    "id": 13
+  },
+  {
+    "question_text": "恋愛において、最も大切にしたいのは「与えること」と「受け取ること」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "与えること。相手の喜びが自分の喜び",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "受け取ること。愛されていると感じたい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 14
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「癒し」と「刺激」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "癒し。安らぎを与えてくれる存在",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "刺激。常に新しい発見がほしい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 15
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「共通点」と「相違点」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "共通点。分かり合えることが大切",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "相違点。新しい発見がほしい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 16
+  },
+  {
+    "question_text": "パートナーに感謝の気持ちを伝える頻度は？",
+    "choices": [
+      {
+        "choice_text": "毎日、言葉や行動で伝える",
+        "score": 10
+      },
+      {
+        "choice_text": "気が向いた時に伝える",
+        "score": 7
+      },
+      {
+        "choice_text": "あまり伝えない。言わなくてもわかるはず",
+        "score": 4
+      },
+      {
+        "choice_text": "全く伝えない",
+        "score": 1
+      }
+    ],
+    "id": 17
+  },
+  {
+    "question_text": "自分の感情をパートナーに伝えるのは得意ですか？",
+    "choices": [
+      {
+        "choice_text": "得意。思ったことはすぐに伝える",
+        "score": 10
+      },
+      {
+        "choice_text": "ある程度は得意。伝え方には気を使う",
+        "score": 7
+      },
+      {
+        "choice_text": "苦手。なかなか言葉にできない",
+        "score": 4
+      },
+      {
+        "choice_text": "非常に苦手。感情を隠してしまう",
+        "score": 1
+      }
+    ],
+    "id": 18
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「理解」と「共感」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "理解。深く分かり合いたい",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "共感。気持ちを分かってほしい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 19
+  },
+  {
+    "question_text": "パートナーとの関係で、最も避けたい話題は何ですか？",
+    "choices": [
+      {
+        "choice_text": "過去の恋愛話",
+        "score": 10
+      },
+      {
+        "choice_text": "金銭問題",
+        "score": 7
+      },
+      {
+        "choice_text": "将来の計画",
+        "score": 4
+      },
+      {
+        "choice_text": "特にない",
+        "score": 1
+      }
+    ],
+    "id": 20
+  },
+  {
+    "question_text": "パートナーとの関係で、最も苦手なことは何ですか？",
+    "choices": [
+      {
+        "choice_text": "束縛されること",
+        "score": 10
+      },
+      {
+        "choice_text": "意見の押し付け",
+        "score": 7
+      },
+      {
+        "choice_text": "無関心な態度",
+        "score": 4
+      },
+      {
+        "choice_text": "喧嘩",
+        "score": 1
+      }
+    ],
+    "id": 21
+  },
+  {
+    "question_text": "パートナーとの将来設計について、どの程度話し合いますか？",
+    "choices": [
+      {
+        "choice_text": "具体的に、定期的に話し合う",
+        "score": 10
+      },
+      {
+        "choice_text": "漠然と話し合うことがある",
+        "score": 7
+      },
+      {
+        "choice_text": "あまり話し合わない",
+        "score": 4
+      },
+      {
+        "choice_text": "全く話し合わない",
+        "score": 1
+      }
+    ],
+    "id": 22
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「共通点」と「相違点」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "共通点。分かり合えることが大切",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "相違点。新しい発見がほしい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 23
+  },
+  {
+    "question_text": "パートナーとの関係で、最も許せない行動は何ですか？",
+    "choices": [
+      {
+        "choice_text": "嘘をつくこと、裏切ること",
+        "score": 10
+      },
+      {
+        "choice_text": "約束を破ること",
+        "score": 7
+      },
+      {
+        "choice_text": "連絡を無視すること",
+        "score": 4
+      },
+      {
+        "choice_text": "無関心な態度をとること",
+        "score": 1
+      }
+    ],
+    "id": 24
+  },
+  {
+    "question_text": "恋愛において、自分の感情を素直に表現できますか？",
+    "choices": [
+      {
+        "choice_text": "はい、素直に表現できます",
+        "score": 10
+      },
+      {
+        "choice_text": "ある程度はできますが、躊躇することも",
+        "score": 7
+      },
+      {
+        "choice_text": "あまりできません。感情を隠しがち",
+        "score": 4
+      },
+      {
+        "choice_text": "全くできません。感情を抑え込んでしまう",
+        "score": 1
+      }
+    ],
+    "id": 25
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「リード」と「対等」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "リードしてほしい",
+        "score": 10
+      },
+      {
+        "choice_text": "対等な関係が良い",
+        "score": 7
+      },
+      {
+        "choice_text": "どちらでもいい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 26
+  },
+  {
+    "question_text": "恋愛における「運命」についてどう思いますか？",
+    "choices": [
+      {
+        "choice_text": "運命を信じる。出会いは必然",
+        "score": 10
+      },
+      {
+        "choice_text": "信じたい気持ちはあるが、努力も必要",
+        "score": 7
+      },
+      {
+        "choice_text": "あまり信じない。努力が全て",
+        "score": 4
+      },
+      {
+        "choice_text": "全く信じない",
+        "score": 1
+      }
+    ],
+    "id": 27
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「思い出」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "初めて出会った日のこと",
+        "score": 10
+      },
+      {
+        "choice_text": "一緒に旅行に行った時のこと",
+        "score": 7
+      },
+      {
+        "choice_text": "何気ない日常の出来事",
+        "score": 4
+      },
+      {
+        "choice_text": "特にない",
+        "score": 1
+      }
+    ],
+    "id": 28
+  },
+  {
+    "question_text": "パートナーの家族や友人との関係をどのように築きますか？",
+    "choices": [
+      {
+        "choice_text": "積極的に交流し、良好な関係を築く",
+        "score": 10
+      },
+      {
+        "choice_text": "礼儀正しく接し、適度な距離を保つ",
+        "score": 7
+      },
+      {
+        "choice_text": "パートナーに任せ、自分からはあまり関わらない",
+        "score": 4
+      },
+      {
+        "choice_text": "必要であれば関わるが、基本的には避けたい",
+        "score": 1
+      }
+    ],
+    "id": 29
+  },
+  {
+    "question_text": "恋愛において、自分の意見を主張する方ですか？",
+    "choices": [
+      {
+        "choice_text": "はい、積極的に主張します",
+        "score": 10
+      },
+      {
+        "choice_text": "状況に応じて主張します",
+        "score": 7
+      },
+      {
+        "choice_text": "あまり主張しません",
+        "score": 4
+      },
+      {
+        "choice_text": "いいえ、相手に合わせます",
+        "score": 1
+      }
+    ],
+    "id": 30
+  },
+  {
+    "question_text": "パートナーとの将来について、どの程度具体的に考えますか？",
+    "choices": [
+      {
+        "choice_text": "結婚や子育てまで具体的に計画している",
+        "score": 10
+      },
+      {
+        "choice_text": "漠然と考えているが、まだ具体的な計画はない",
+        "score": 7
+      },
+      {
+        "choice_text": "あまり考えていない。今が楽しければいい",
+        "score": 4
+      },
+      {
+        "choice_text": "全く考えていない",
+        "score": 1
+      }
+    ],
+    "id": 31
+  },
+  {
+    "question_text": "恋愛において、年齢差は気になりますか？",
+    "choices": [
+      {
+        "choice_text": "全く気にならない。愛があれば",
+        "score": 10
+      },
+      {
+        "choice_text": "多少は気になるが、問題ではない",
+        "score": 7
+      },
+      {
+        "choice_text": "気になる。同年代が良い",
+        "score": 4
+      },
+      {
+        "choice_text": "非常に気になる。年齢は重要",
+        "score": 1
+      }
+    ],
+    "id": 32
+  },
+  {
+    "question_text": "恋愛において、自分の価値観を曲げることはできますか？",
+    "choices": [
+      {
+        "choice_text": "はい、相手のためならできます",
+        "score": 10
+      },
+      {
+        "choice_text": "状況による。納得できれば",
+        "score": 7
+      },
+      {
+        "choice_text": "あまりできません",
+        "score": 4
+      },
+      {
+        "choice_text": "いいえ、自分の価値観は曲げない",
+        "score": 1
+      }
+    ],
+    "id": 33
+  },
+  {
+    "question_text": "恋愛において、自分のペースを大切にしますか？",
+    "choices": [
+      {
+        "choice_text": "はい、自分のペースを崩したくない",
+        "score": 10
+      },
+      {
+        "choice_text": "ある程度は大切にするが、相手に合わせることも",
+        "score": 7
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 4
+      },
+      {
+        "choice_text": "いいえ、相手のペースに合わせる",
+        "score": 1
+      }
+    ],
+    "id": 34
+  },
+  {
+    "question_text": "パートナーとの関係で、最も感謝していることは何ですか？",
+    "choices": [
+      {
+        "choice_text": "どんな時も支え、理解してくれること",
+        "score": 10
+      },
+      {
+        "choice_text": "一緒に楽しい時間を過ごせること",
+        "score": 7
+      },
+      {
+        "choice_text": "自分の成長を促してくれること",
+        "score": 4
+      },
+      {
+        "choice_text": "そばにいてくれること",
+        "score": 1
+      }
+    ],
+    "id": 35
+  },
+  {
+    "question_text": "パートナーの意見に反対する場合、どう伝えますか？",
+    "choices": [
+      {
+        "choice_text": "相手の気持ちを考慮しつつ、丁寧に自分の意見を伝える",
+        "score": 10
+      },
+      {
+        "choice_text": "遠回しに伝える",
+        "score": 7
+      },
+      {
+        "choice_text": "言わずに我慢する",
+        "score": 4
+      },
+      {
+        "choice_text": "感情的に反論する",
+        "score": 1
+      }
+    ],
+    "id": 36
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「思い出」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "初めて出会った日のこと",
+        "score": 10
+      },
+      {
+        "choice_text": "一緒に旅行に行った時のこと",
+        "score": 7
+      },
+      {
+        "choice_text": "何気ない日常の出来事",
+        "score": 4
+      },
+      {
+        "choice_text": "特にない",
+        "score": 1
+      }
+    ],
+    "id": 37
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「外見」と「内面」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "内面。性格や価値観が重要",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "外見。第一印象が重要",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 38
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「理解」と「共感」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "理解。深く分かり合いたい",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "共感。気持ちを分かってほしい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 39
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「行動」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "ハグやキスなどのスキンシップ",
+        "score": 10
+      },
+      {
+        "choice_text": "一緒に食事をする",
+        "score": 7
+      },
+      {
+        "choice_text": "手をつないで歩く",
+        "score": 4
+      },
+      {
+        "choice_text": "特にない",
+        "score": 1
+      }
+    ],
+    "id": 40
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「時間」はどんな時ですか？",
+    "choices": [
+      {
+        "choice_text": "二人きりで過ごすロマンチックな時間",
+        "score": 10
+      },
+      {
+        "choice_text": "一緒に趣味を楽しむ時間",
+        "score": 7
+      },
+      {
+        "choice_text": "友人も交えて賑やかに過ごす時間",
+        "score": 4
+      },
+      {
+        "choice_text": "それぞれの時間を尊重する",
+        "score": 1
+      }
+    ],
+    "id": 41
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「リード」と「対等」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "リードしてほしい",
+        "score": 10
+      },
+      {
+        "choice_text": "対等な関係が良い",
+        "score": 7
+      },
+      {
+        "choice_text": "どちらでもいい",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 42
+  },
+  {
+    "question_text": "恋愛において、秘密を持つことはありますか？",
+    "choices": [
+      {
+        "choice_text": "全くない。全てオープン",
+        "score": 10
+      },
+      {
+        "choice_text": "相手に言えない小さな秘密はある",
+        "score": 7
+      },
+      {
+        "choice_text": "いくつか秘密がある",
+        "score": 4
+      },
+      {
+        "choice_text": "秘密だらけ",
+        "score": 1
+      }
+    ],
+    "id": 43
+  },
+  {
+    "question_text": "恋愛において、相手に求めるのは「精神的な繋がり」と「肉体的な繋がり」どちらですか？",
+    "choices": [
+      {
+        "choice_text": "精神的な繋がり。心が通じ合うことが大切",
+        "score": 10
+      },
+      {
+        "choice_text": "どちらも同じくらい大切",
+        "score": 7
+      },
+      {
+        "choice_text": "肉体的な繋がり。触れ合うことが大切",
+        "score": 4
+      },
+      {
+        "choice_text": "あまり意識しない",
+        "score": 1
+      }
+    ],
+    "id": 44
+  },
+  {
+    "question_text": "パートナーの趣味に興味がない場合、どう対応しますか？",
+    "choices": [
+      {
+        "choice_text": "積極的に参加し、一緒に楽しむ努力をする",
+        "score": 10
+      },
+      {
+        "choice_text": "理解を示し、話を聞いてあげる",
+        "score": 7
+      },
+      {
+        "choice_text": "特に何もせず、相手に任せる",
+        "score": 4
+      },
+      {
+        "choice_text": "自分の趣味を優先し、相手の趣味には関わらない",
+        "score": 1
+      }
+    ],
+    "id": 45
+  },
+  {
+    "question_text": "パートナーとの関係で、最も苦手な「状況」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "喧嘩や口論",
+        "score": 10
+      },
+      {
+        "choice_text": "すれ違いや誤解",
+        "score": 7
+      },
+      {
+        "choice_text": "マンネリ化",
+        "score": 4
+      },
+      {
+        "choice_text": "束縛されること",
+        "score": 1
+      }
+    ],
+    "id": 46
+  },
+  {
+    "question_text": "パートナーとの関係で、最も苦手なことは何ですか？",
+    "choices": [
+      {
+        "choice_text": "束縛されること",
+        "score": 10
+      },
+      {
+        "choice_text": "意見の押し付け",
+        "score": 7
+      },
+      {
+        "choice_text": "無関心な態度",
+        "score": 4
+      },
+      {
+        "choice_text": "喧嘩",
+        "score": 1
+      }
+    ],
+    "id": 47
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「時間」はどんな時ですか？",
+    "choices": [
+      {
+        "choice_text": "二人きりで過ごすロマンチックな時間",
+        "score": 10
+      },
+      {
+        "choice_text": "一緒に趣味を楽しむ時間",
+        "score": 7
+      },
+      {
+        "choice_text": "友人も交えて賑やかに過ごす時間",
+        "score": 4
+      },
+      {
+        "choice_text": "それぞれの時間を尊重する",
+        "score": 1
+      }
+    ],
+    "id": 48
+  },
+  {
+    "question_text": "恋愛における「駆け引き」についてどう思いますか？",
+    "choices": [
+      {
+        "choice_text": "必要。関係を盛り上げるスパイスになる",
+        "score": 10
+      },
+      {
+        "choice_text": "多少は必要。相手の気持ちを確かめるために",
+        "score": 7
+      },
+      {
+        "choice_text": "不要。素直な気持ちで向き合いたい",
+        "score": 4
+      },
+      {
+        "choice_text": "嫌い。疲れるだけ",
+        "score": 1
+      }
+    ],
+    "id": 49
+  },
+  {
+    "question_text": "パートナーとの関係で、最も大切にしたい「行動」は何ですか？",
+    "choices": [
+      {
+        "choice_text": "ハグやキスなどのスキンシップ",
+        "score": 10
+      },
+      {
+        "choice_text": "一緒に食事をする",
+        "score": 7
+      },
+      {
+        "choice_text": "手をつないで歩く",
+        "score": 4
+      },
+      {
+        "choice_text": "特にない",
+        "score": 1
+      }
+    ],
+    "id": 50
+  }
+]
