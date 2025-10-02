@@ -1,5 +1,6 @@
 {
   "name": "renai-tool",
+  "homepage": "https://fuminico.github.io/renai-tool",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vite deploy"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
@@ -30,6 +32,7 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.18",
     "tailwindcss-animate": "^1.0.7",
-    "vite": "^5.0.8"
+    "vite": "^5.0.8",
+    "vite-plugin-gh-pages": "^1.0.1"
   }
 }
