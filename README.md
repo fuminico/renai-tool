@@ -2,10 +2,6 @@
 
 このプロジェクトは、ユーザーがいくつかの質問に答えることで、その人の「恋愛偏差値」を診断するWebアプリケーションです。
 
-## スクリーンショット
-
-(ここにアプリケーションのスクリーンショットを挿入)
-
 ## 主な特徴
 
 - シンプルで直感的なUI
@@ -21,11 +17,10 @@
 - **UI / スタイリング:**
   - [Tailwind CSS](https://tailwindcss.com/)
   - [shadcn/ui](https://ui.shadcn.com/)
-- **言語:** JavaScript
+- **デプロイ:**
+  - [GitHub Actions](https://github.com/features/actions)
 
 ## セットアップと実行方法
-
-このプロジェクトをローカル環境でセットアップし、実行する手順は以下の通りです。
 
 ### 前提条件
 
@@ -36,7 +31,7 @@
 
 1.  このリポジトリをクローンします。
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/fuminico/renai-tool.git
     cd renai-tool
     ```
 
@@ -48,19 +43,18 @@
 ### 開発サーバーの起動
 
 以下のコマンドを実行すると、開発サーバーが起動します。
-ブラウザで `http://localhost:5173` (デフォルト) にアクセスしてください。
+ブラウザで `http://localhost:3005` (デフォルト) にアクセスしてください。
 
 ```bash
 npm run dev
 ```
 
-### 本番用ビルド
+## デプロイ
 
-以下のコマンドを実行すると、`dist` ディレクトリに本番用のファイルが生成されます。
+このプロジェクトは、GitHub Actionsを使用して自動的にデプロイされます。
+`main` ブランチにプッシュすると、ワークフローがトリガーされ、ビルドと `gh-pages` ブランチへのデプロイが自動的に行われます。
 
-```bash
-npm run build
-```
+デプロイ設定は `.github/workflows/deploy.yml` に記述されています。
 
 ## ディレクトリ構成
 
@@ -68,19 +62,18 @@ npm run build
 
 ```
 renai-tool/
+├── .github/             # GitHub Actions ワークフロー
+│   └── workflows/
+│       └── deploy.yml
 ├── public/              # 静的ファイル (画像、JSONデータ)
 │   ├── pict/            # 診断結果の画像
 │   ├── questions.json   # 診断の質問データ
 │   └── result_types.json # 診断結果のタイプデータ
 ├── src/                 # ソースコード
 │   ├── components/      # Reactコンポーネント
-│   │   └── ui/          # shadcn/ui コンポーネント
-│   ├── lib/             # ユーティリティ関数
-│   ├── App.css          # グローバルなCSS
 │   ├── App.jsx          # メインのアプリケーションコンポーネント
 │   └── main.jsx         # アプリケーションのエントリーポイント
 ├── package.json         # プロジェクトのメタデータと依存関係
-├── tailwind.config.js   # Tailwind CSS の設定ファイル
 └── vite.config.js       # Vite の設定ファイル
 ```
 
@@ -88,10 +81,5 @@ renai-tool/
 
 このアプリケーションは、`public` ディレクトリにある2つのJSONファイルからデータを読み込みます。
 
--   `questions.json`: 診断で表示される質問と選択肢、および各選択肢がどのタイプに影響するかを定義しています。
--   `result_types.json`: 診断結果のスコア範囲、タイプ名、キャッチフレーズ、アドバイスなどを定義しています。
-
-## 補助スクリプト
-
--   `generate_questions.py`: `questions.json` を生成するためのPythonスクリプトです。質問の追加や編集を効率的に行うために使用されます（現在は手動でのJSON編集が主）。
-
+-   `questions.json`: 診断で表示される質問と選択肢を定義しています。
+-   `result_types.json`: 診断結果のスコア範囲、タイプ名、アドバイスなどを定義しています。
