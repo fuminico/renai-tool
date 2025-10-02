@@ -19,8 +19,8 @@ function App() {
     const fetchData = async () => {
       try {
         const [questionsRes, resultsRes] = await Promise.all([
-          fetch('/questions.json'),
-          fetch('/result_types.json')
+          fetch('questions.json'),
+          fetch('result_types.json')
         ]);
         const questions = await questionsRes.json();
         const results = await resultsRes.json();
@@ -72,14 +72,14 @@ function App() {
     );
 
     let coupleImage;
-    if (normalizedScore >= 20 && normalizedScore <= 29) coupleImage = '/pict/couple_20_29.png';
-    else if (normalizedScore <= 39) coupleImage = '/pict/couple_30_39.png';
-    else if (normalizedScore <= 49) coupleImage = '/pict/couple_40_49.png';
-    else if (normalizedScore <= 59) coupleImage = '/pict/couple_50_59.png';
-    else if (normalizedScore <= 69) coupleImage = '/pict/couple_60_69.png';
-    else if (normalizedScore <= 79) coupleImage = '/pict/couple_70_79.png';
-    else if (normalizedScore <= 89) coupleImage = '/pict/couple_80_89.png';
-    else coupleImage = '/pict/couple_90.png';
+    if (normalizedScore >= 20 && normalizedScore <= 29) coupleImage = 'pict/couple_20_29.png';
+    else if (normalizedScore <= 39) coupleImage = 'pict/couple_30_39.png';
+    else if (normalizedScore <= 49) coupleImage = 'pict/couple_40_49.png';
+    else if (normalizedScore <= 59) coupleImage = 'pict/couple_50_59.png';
+    else if (normalizedScore <= 69) coupleImage = 'pict/couple_60_69.png';
+    else if (normalizedScore <= 79) coupleImage = 'pict/couple_70_79.png';
+    else if (normalizedScore <= 89) coupleImage = 'pict/couple_80_89.png';
+    else coupleImage = 'pict/couple_90.png';
 
     setResult({
       score: normalizedScore,
