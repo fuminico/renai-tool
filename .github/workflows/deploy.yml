@@ -6,6 +6,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write # Allow write access to the repository
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
